@@ -17,3 +17,7 @@ Layout Concepts:
 
 3.
 <img width="459" height="459" alt="Group 30" src="https://github.com/user-attachments/assets/adc91249-7a61-408d-b29b-6fc8b44703bc" />
+
+Initial Pcb designs: 
+
+<img width="1918" height="945" alt="pi keeb" src="https://github.com/user-attachments/assets/06a76ea9-7913-4aa9-a2e7-a43c28f533f0" />
